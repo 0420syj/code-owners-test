@@ -1,0 +1,13 @@
+# Global code owner
+* @apartmentary
+
+# Specific file patterns (examples)
+*.md @apartmentary
+*.js @apartmentary
+*.ts @apartmentary
+*.json @apartmentary
+
+# Directory-based ownership
+/src/ @apartmentary
+/docs/ @apartmentary
+/.github/ @apartmentary
